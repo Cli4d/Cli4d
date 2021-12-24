@@ -4,11 +4,11 @@
 
 ## I'm a student, Developer, Designer and community leader!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I just got selected as a GitHub Campus Expert: [Clifford's GCE profile][GCE profile]!
+- 🌱 I’m currently learning UX design and Embedded systems engineering 🤣
+- 👯 I’m looking to collaborate with other developer community leaders to design and organize awesome events for members.
+- 🥅 2022 Goals: Improve my technical skills and start job hunting
+- ⚡ Fun fact: I love watching movies and reading self development books
 
 ### Connect with me:
 
@@ -69,4 +69,5 @@
 </details>
 
 [twitter]: https://twitter.com/clifford_ouma
+[GCE profile]: https://githubcampus.expert/Cli4d/
 [linkedin]: https://linkedin.com/in/clifford-ochieng
