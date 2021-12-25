@@ -64,7 +64,7 @@
 <details> -->
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Cli4d's GitHub Stats" src="https://github-readme-stats.Cli4d.vercel.app/api?username=Cli4d&show_icons=true&hide_border=true" />
 
 </details>
 
