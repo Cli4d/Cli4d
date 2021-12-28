@@ -33,22 +33,16 @@
 <br />
 <br />
 
----
+
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gratitude, a small but powerful practice](https://medium.com/@ochiengclifford2000/gratitude-a-small-but-powerful-practice-677e6cb8a793)
-- [Changing the Perspective of depression and pain in life](https://medium.com/@ochiengclifford2000/changing-the-perspective-of-depression-and-pain-in-life-75a95bc0a9b1)
-- [My Experience being a leader at Google Developer Students Club Moi University](https://medium.com/@ochiengclifford2000/my-experience-being-a-leader-e71257ffc07)
-
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts, Coming Soon...]()
+<!-- 
 
----
-
-<!-- <details>
+<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 
@@ -61,12 +55,12 @@
 
 </details>
 
-<details> -->
+<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Cli4d's GitHub Stats" src="https://github-readme-stats.Cli4d.vercel.app/api?username=Cli4d&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [twitter]: https://twitter.com/clifford_ouma
 [GCE profile]: https://githubcampus.expert/Cli4d/
