@@ -55,9 +55,7 @@
 <br>
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cli4d&repo=AimilyAppshow_owner=true)](https://github.com/Cli4d/github-readme-stats)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cli4d&repo=AimilyApp)](https://github.com/Cli4d/github-readme-stats)
 
 ---
 
