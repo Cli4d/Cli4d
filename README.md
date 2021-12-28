@@ -38,6 +38,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gratitude, a small but powerful practice](https://medium.com/@Cli4d/gratitude-a-small-but-powerful-practice-677e6cb8a793?source=rss-2dbfc0067412------2)
+- [Changing the Perspective of depression and pain in life](https://medium.com/@Cli4d/changing-the-perspective-of-depression-and-pain-in-life-75a95bc0a9b1?source=rss-2dbfc0067412------2)
+- [My Experience being a leader at Google Developer Students Club Moi University](https://medium.com/@Cli4d/my-experience-being-a-leader-e71257ffc07?source=rss-2dbfc0067412------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 
