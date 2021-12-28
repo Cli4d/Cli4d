@@ -50,13 +50,12 @@
 
 ---
 
-[![Clifford's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cli4d&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/Cli4d/github-readme-stats)
-
-<br>
-
----
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cli4d)](https://github.com/Cli4d/github-readme-stats)
-
+<a href="https://github.com/Cli4d/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cli4d&count_private=true&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/Cli4d/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cli4d" />
+</a>
 
 ---
 [twitter]: https://twitter.com/clifford_ouma
