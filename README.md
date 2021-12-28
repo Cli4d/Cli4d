@@ -52,29 +52,19 @@
 
 [![Clifford's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cli4d&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/Cli4d/github-readme-stats)
 
+<br>
+
 ---
-<!-- 
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-
-1. 🗣 Commented on [#1](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/1) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. ❗️ Closed issue [#1](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/1) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cli4d&repo=AimilyAppshow_owner=true)](https://github.com/Cli4d/github-readme-stats)
 
 
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+---
 
-  <img align="left" alt="Cli4d's GitHub Stats" src="https://github-readme-stats.Cli4d.vercel.app/api?username=Cli4d&show_icons=true&hide_border=true" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cli4d)](https://github.com/Cli4d/github-readme-stats)
 
-</details> -->
 
+---
 [twitter]: https://twitter.com/clifford_ouma
 [GCE profile]: https://githubcampus.expert/Cli4d/
 [linkedin]: https://linkedin.com/in/clifford-ochieng
