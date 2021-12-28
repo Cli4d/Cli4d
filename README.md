@@ -55,10 +55,6 @@
 <br>
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cli4d&repo=AimilyApp)](https://github.com/Cli4d/github-readme-stats)
-
----
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cli4d)](https://github.com/Cli4d/github-readme-stats)
 
 
