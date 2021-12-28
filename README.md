@@ -54,7 +54,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cli4d&count_private=true&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/Cli4d/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cli4d&layout=compact?exclude_repo=Introduction-to-python-for-beginners,Introduction-to-Python-Absolute-Beginner?hide=Jupyter Notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cli4d&layout=compact" />
 </a>
 
 ---
