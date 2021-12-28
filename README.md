@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/clifford_ouma?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fclifford_ouma&screen_name=clifford_ouma)
 
+--- 
+
 ## I'm a student, Developer, Designer and community leader!!
 
 - 🔭 I just got selected as a GitHub Campus Expert: [Clifford's GCE profile][GCE profile]!
@@ -9,6 +11,8 @@
 - 👯 I’m looking to collaborate with other developer community leaders to design and organize awesome events for members.
 - 🥅 2022 Goals: Improve my technical skills and start job hunting
 - ⚡ Fun fact: I love watching movies and reading self development books
+
+---
 
 ### Connect with me:
 
@@ -33,7 +37,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
-<br />
 
 ---
 
@@ -49,7 +52,7 @@
 
 [![Clifford's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cli4d&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/Cli4d/github-readme-stats)
 
-
+---
 <!-- 
 
 <details>
